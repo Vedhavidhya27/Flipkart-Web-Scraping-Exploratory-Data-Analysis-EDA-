@@ -1,0 +1,406 @@
+,Product_name,Price,Ram,Rating,Count_Rating,Review,Inch,Battery,Colour,Android_IOS,Brand
+0,REDMI  Pad Pro 5G,22999,8,4.4,6726,432,12.1,10000,Graphite Grey,Android 14,REDMI
+1,Samsung Galaxy Tab A9+,21999,8,4.5,38465,1473,11.0,7040,Graphite,Android 12,Samsung
+2,POCO Pad 5G,21999,8,4.4,9167,749,12.1,10000,Cobalt Blue,Android 14,POCO
+3,Samsung Galaxy Tab A9,15999,4,4.3,2393,102,8.7,5100,Navy,Android 12,Samsung
+4,Samsung Galaxy Tab A9+,24999,8,4.5,38465,1473,11.0,7040,Navy,Android 12,Samsung
+5,Samsung Galaxy Tab S9 FE,41999,8,4.5,4425,228,10.9,10090,Lavender,Android 12,Samsung
+6,Samsung Galaxy Tab A9+,19999,4,4.5,38465,1473,11.0,7040,Graphite,Android 12,Samsung
+7,Samsung Galaxy Tab A9+,23999,8,4.5,38465,1473,11.0,7040,Silver,Android 12,Samsung
+8,REDMI  Pad Pro 5G,25999,8,4.4,6726,432,12.1,10000,Graphite Grey,Android 14,REDMI
+9,REDMI  Pad Pro 5G,22999,8,4.4,6726,432,12.1,10000,Quick Silver,Android 14,REDMI
+10,POCO Pad 5G,21999,8,4.4,9167,749,12.1,10000,Pistachio Green,Android 14,POCO
+11,Lenovo M10 5G,17996,6,4.2,2172,155,10.61,7700,Abyss Blue,Android 13,Lenovo
+12,POCO Pad 5G,22999,8,4.4,9167,749,12.1,10000,Cobalt Blue,Android 14,POCO
+13,POCO Pad 5G,22999,8,4.4,9167,749,12.1,10000,Pistachio Green,Android 14,POCO
+14,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Gray,Android 12,Samsung
+15,REDMI  Pad Pro 5G,25999,8,4.4,6726,432,12.1,10000,Quick Silver,Android 14,REDMI
+16,Samsung Galaxy Tab S9 FE,41499,8,4.5,4425,228,10.9,10090,Mint,Android 12,Samsung
+17,Samsung Galaxy Tab A11,15999,4,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+18,Samsung Galaxy Tab S10 FE,64999,12,4.8,56,3,10.9,8000,Gray,Android 15,Samsung
+19,Samsung Galaxy Tab S9 FE,44999,6,4.5,4425,228,10.9,10090,Lavender,Android 12,Samsung
+20,Samsung Galaxy Tab S9 FE,42848,6,4.5,4425,228,10.9,10090,Gray,Android 12,Samsung
+21,Lenovo M10 5G,17990,4,4.2,2172,155,10.61,7700,Abyss Blue,Android 13,Lenovo
+22,Samsung Galaxy Tab A11,20999,8,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+23,Samsung Galaxy Tab S11 Ultra,134299,12,4.4,28,2,14.6,11600,Gray,Android 16,Samsung
+24,Apple iPad,47509,4,4.6,18397,930,10.9,7606,Blue,iPadOS 16,Apple
+25,Samsung Galaxy Tab S9 FE,41999,8,4.5,4425,228,10.9,10090,Silver,Android 12,Samsung
+26,Apple 2024 iPad Pro,133129,12,4.6,268,13,11.0,7538,Silver,iOS 17,Apple
+27,Samsung Galaxy Tab S11,98999,12,4.8,11,398,11.0,8400,Silver,Android 16,Samsung
+28,Apple 2022 iPad Pro,226389,16,4.6,213,7,12.9,7538,Space Grey,iPadOS 16,Apple
+29,Samsung Galaxy Tab S10 FE,66999,12,4.8,56,3,10.9,8000,Silver,Android 15,Samsung
+30,Apple 2024 iPad Pro,114099,12,4.6,268,13,11.0,7538,Space Black,iOS 17,Apple
+31,Apple 2024 iPad Pro,171189,12,4.6,268,13,11.0,7538,Silver,iOS 17,Apple
+32,Samsung Galaxy Tab S10 FE+,71999,8,4.6,117,7,13.1,10090,Gray,Android 15,Samsung
+33,Apple iPad mini,76029,4,4.6,1066,95,8.3,5078,Pink,iOS 15,Apple
+34,Apple 2024 iPad Pro,133129,12,4.6,268,13,11.0,7538,Space Black,iOS 17,Apple
+35,Apple iPad mini,61759,4,4.6,1066,95,8.3,5078,Space Grey,iOS 15,Apple
+36,Samsung Galaxy Tab S9,85999,8,4.7,2377,134,11.0,8400,Beige,Android 13,Samsung
+37,Apple iPad,47489,4,4.6,18397,930,10.9,7606,Silver,iPadOS 16,Apple
+38,Apple 2024 iPad Pro,218769,12,4.6,268,13,11.0,7538,Nano-texture),iOS 17,Apple
+39,Samsung Galaxy Tab S11 Ultra,135999,12,4.4,28,2,14.6,11600,Silver,Android 16,Samsung
+40,Apple iPad mini,58709,4,4.6,1066,95,8.3,5078,Pink,iOS 15,Apple
+41,Samsung Galaxy Tab S11,93999,12,4.8,11,398,11.0,8400,Gray,Android 16,Samsung
+42,Apple iPad,47489,4,4.6,18397,930,10.9,7606,Pink,iPadOS 16,Apple
+43,Samsung Galaxy Tab S11,98999,12,4.8,11,398,11.0,8400,Gray,Android 16,Samsung
+44,Apple iPad,47489,4,4.6,18397,930,10.9,7606,Yellow,iPadOS 16,Apple
+45,Apple iPad Air,63409,4,4.6,4474,246,10.9,7606,Star Light,iPadOS 15,Apple
+46,Apple iPad Air,59799,4,4.6,4474,246,10.9,7606,space Grey,iPadOS 15,Apple
+47,Apple iPad mini,76029,4,4.6,1066,95,8.3,5078,Space Grey,iOS 15,Apple
+48,Apple iPad mini,61759,4,4.6,1066,95,8.3,5078,Purple,iOS 15,Apple
+49,Samsung Galaxy Tab A9+,20699,4,4.5,38465,1473,11.0,7040,Silver,Android 12,Samsung
+50,Samsung Galaxy Tab A9+,32999,6,4.5,22,1,9.9,7040,GRAPHITE,Android 12,Samsung
+51,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+52,Samsung Galaxy Tab A11,20999,8,3.5,27,1,8.7,5100,Gray,Android 15,Samsung
+53,Samsung Galaxy Tab A9+,20699,4,4.5,38465,1473,11.0,7040,Navy,Android 12,Samsung
+54,Samsung GalaxyTabA9+5g,22999,8,4.6,293,398,9.9,7040,Silver,Android 12,Samsung
+55,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Silver,Android 12,Samsung
+56,Samsung Galaxy Tab S9 FE,44999,6,4.5,4425,228,10.9,10090,Silver,Android 12,Samsung
+57,Samsung Galaxy Tab S9 FE,44999,8,4.5,4425,228,10.9,10090,Gray,Android 12,Samsung
+58,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+59,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Lavender,Android 12,Samsung
+60,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Lavender,Android 12,Samsung
+61,Samsung Galaxy Tab S10 FE,59999,8,4.8,56,3,10.9,8000,Silver,Android 15,Samsung
+62,Samsung Galaxy Tab S9 FE,38699,6,4.5,4425,228,10.9,10090,Mint,Android 12,Samsung
+63,Samsung Galaxy Tab S10 FE+,86999,12,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+64,Samsung Galaxy Tab S10 FE,70999,12,4.8,56,3,10.9,8000,Blue,Android 15,Samsung
+65,Apple 2022 iPad Pro,91409,16,4.7,1088,71,11.0,7538,Silver,iPadOS 16,Apple
+66,Samsung Galaxy Tab S10 FE,59999,8,4.8,56,3,10.9,8000,Blue,Android 15,Samsung
+67,Samsung Galaxy Tab S10 Ultra,124999,12,4.5,135,14,14.6,11200,Platinum Silver,Android 14,Samsung
+68,Samsung Galaxy Tab S10 FE+,75999,8,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+69,Samsung Galaxy Tab S10 FE+,75999,8,4.6,117,7,13.1,10090,Silver,Android 15,Samsung
+70,realme Pad X,17999,4,4.4,13715,1171,9.9,8340,Glacier Blue,Android 12,realme
+71,realme Pad X,28499,6,4.4,13715,1171,9.9,8340,Glowing Grey,Android 12,realme
+72,Samsung SM-X216B,22999,8,4.8,4,398,11.0,7040,Silver,Android 12,Samsung
+73,realme Pad X,28999,6,4.4,13715,1171,9.9,8340,Glacier Blue,Android 12,realme
+74,Apple 2024 iPad Mini,64900,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+75,Apple iPad Pro 2021,94900,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+76,Apple iPad Pro 2021,112900,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+77,Apple 2024 iPad Mini,94900,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+78,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Blue,iPadOS 16,Apple
+79,Apple 2024 iPad Pro,114099,12,4.6,268,13,11.0,7538,Silver,iOS 17,Apple
+80,Apple 2024 iPad Mini,74900,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+81,Apple 2024 iPad Mini,71269,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+82,Apple iPad Pro 2021,108389,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+83,Apple iPad Pro 2021,113900,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+84,Apple iPad Pro 2021,118869,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+85,Apple iPad Pro 2021,202599,16,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+86,Apple iPad Pro 2021,134079,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+87,Samsung Galaxy Tab S10 Ultra,113999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+88,Samsung Galaxy Tab S10 FE,49999,8,4.8,56,3,10.9,8000,Gray,Android 15,Samsung
+89,realme Pad X,26999,4,4.4,13715,1171,9.9,8340,Glowing Grey,Android 12,realme
+90,Apple 2024 iPad Mini,94900,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+91,Apple iPad Pro 2021,90309,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+92,Apple iPad Pro 2021,81739,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+93,Apple iPad Pro 2021,168339,16,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+94,Apple 2022 iPad Pro,99839,16,4.6,213,7,12.9,7538,Silver,iPadOS 16,Apple
+95,Lenovo Tab P11 5G,55000,8,4.2,66,6,11.0,7500,Storm Grey,Android 11,Lenovo
+96,Apple 2024 iPad Pro,161679,12,4.3,33,1,13.0,7538,Space Black,iOS 17,Apple
+97,Apple iPad Pro 2021,107439,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+98,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Yellow,iPadOS 16,Apple
+99,Apple 2024 iPad Mini,71269,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+100,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Silver,iPadOS 16,Apple
+101,Apple 2024 iPad Mini,94599,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+102,Apple iPad Pro 2021,141689,16,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+103,Apple 2024 iPad Mini,74900,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+104,Apple 2024 iPad Mini,90309,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+105,Apple iPad Air,79900,4,4.6,4474,246,10.9,7606,Star Light,iPadOS 15,Apple
+106,Samsung Galaxy Tab S10 Ultra,124999,12,4.5,135,14,14.6,11200,Platinum Silver,Android 14,Samsung
+107,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Blue,iPadOS 15,Apple
+108,Apple 2024 iPad Mini,61759,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+109,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Pink,iPadOS 16,Apple
+110,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Pink,iPadOS 15,Apple
+111,Apple iPad Pro 2021,116949,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+112,Apple iPad Pro 2021,136279,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+113,Apple iPad mini,76029,4,4.6,1066,95,8.3,5078,Purple,iOS 15,Apple
+114,Apple iPad Air,72499,4,4.6,4474,246,10.9,7606,Purple,iPadOS 15,Apple
+115,Apple iPad Pro 2021,81739,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+116,Apple 2024 iPad Mini,64900,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+117,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Space Grey,iPadOS 15,Apple
+118,Apple 2024 iPad Mini,64499,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+119,Apple iPad mini,60900,4,4.6,1066,95,8.3,5078,Starlight,iOS 15,Apple
+120,Apple 2025 iPad Air,90309,8,4.4,65,3,13.0,7606,Space Grey,iPadOS 18,Apple
+121,Apple 2024 iPad Air,90309,8,4.7,68,4,13.0,7606,Starlight,iOS 17,Apple
+122,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Gray,Android 12,Samsung
+123,Samsung Galaxy Tab S9 FE,44999,8,4.5,4425,228,10.9,10090,Gray,Android 12,Samsung
+124,Samsung Galaxy Tab A9+,20699,4,4.5,38465,1473,11.0,7040,Silver,Android 12,Samsung
+125,Samsung Galaxy Tab A9+,20699,4,4.5,38465,1473,11.0,7040,Navy,Android 12,Samsung
+126,Samsung Galaxy Tab A9+,32999,6,4.5,22,1,9.9,7040,GRAPHITE,Android 12,Samsung
+127,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Lavender,Android 12,Samsung
+128,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Lavender,Android 12,Samsung
+129,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Silver,Android 12,Samsung
+130,Samsung Galaxy Tab A11,20999,8,3.5,27,1,8.7,5100,Gray,Android 15,Samsung
+131,Samsung Galaxy Tab S9 FE,44999,6,4.5,4425,228,10.9,10090,Silver,Android 12,Samsung
+132,Samsung Galaxy Tab S9+,117599,12,4.7,1897,108,12.4,10090,Graphite,Android 13,Samsung
+133,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Silver,Android 12,Samsung
+134,Samsung Galaxy Tab S9 FE+,54999,8,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+135,Samsung GalaxyTabA9+5g,22999,8,4.6,293,398,9.9,7040,Silver,Android 12,Samsung
+136,Samsung Galaxy Tab S9 FE+,64999,12,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+137,Apple 2025 iPad,47479,6,4.7,10452,584,11.0,0,Yellow,iPadOS 18,Apple
+138,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Pink,iPadOS 16,Apple
+139,Samsung Galaxy Tab S9 FE,38699,6,4.5,4425,228,10.9,10090,Mint,Android 12,Samsung
+140,Apple 2025 iPad,76029,6,4.7,10452,584,11.0,0,Blue,iPadOS 18,Apple
+141,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Silver,iPadOS 16,Apple
+142,Apple iPad mini,60900,4,4.6,1066,95,8.3,5078,Starlight,iOS 15,Apple
+143,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Yellow,iPadOS 16,Apple
+144,realme Pad X,17999,4,4.4,13715,1171,9.9,8340,Glacier Blue,Android 12,realme
+145,Apple 2025 iPad,47479,6,4.7,10452,584,11.0,0,Blue,iPadOS 18,Apple
+146,Apple 2024 iPad Mini,94599,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+147,Apple 2025 iPad,47479,6,4.7,10452,584,11.0,0,Silver,iPadOS 18,Apple
+148,Samsung Galaxy Tab S9,91020,12,4.7,2377,134,11.0,8400,Beige,Android 13,Samsung
+149,Apple 2024 iPad Mini,74900,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+150,Apple 2024 iPad Mini,90309,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+151,Apple 2024 iPad Mini,71269,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+152,Apple 2024 iPad Mini,64900,8,4.6,155,12,8.3,5078,Space Grey,iOS iPadOS 18,Apple
+153,Apple 2024 iPad Mini,64499,8,4.6,155,12,8.3,5078,Blue,iOS iPadOS 18,Apple
+154,realme Pad X,28999,6,4.4,13715,1171,9.9,8340,Glacier Blue,Android 12,realme
+155,realme Pad X,26999,4,4.4,13715,1171,9.9,8340,Glowing Grey,Android 12,realme
+156,realme Pad X,28499,6,4.4,13715,1171,9.9,8340,Glowing Grey,Android 12,realme
+157,Samsung Galaxy Tab S10 Ultra,113999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+158,Apple 2024 iPad Air,74900,8,4.6,1131,50,11.0,7606,Blue,iOS 17,Apple
+159,Apple 2025 iPad,56999,6,4.7,10452,584,11.0,0,Silver,iPadOS 18,Apple
+160,Apple 2025 iPad,56999,6,4.7,10452,584,11.0,0,Pink,iPadOS 18,Apple
+161,Apple 2025 iPad Air,99819,8,4.5,255,17,11.0,7606,Starlight,iPadOS 18,Apple
+162,Apple 2025 iPad,56999,6,4.7,10452,584,11.0,0,Blue,iPadOS 18,Apple
+163,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Space Grey,iPadOS 15,Apple
+164,Samsung Galaxy Tab S8+,99999,8,4.7,984,75,12.4,10090,Graphite,Android 12,Samsung
+165,Samsung Galaxy Tab S10 FE+,86999,12,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+166,Apple 2025 iPad Air,99819,8,4.4,65,3,13.0,7606,Starlight,iPadOS 18,Apple
+167,Apple 2025 iPad,56999,6,4.7,10452,584,11.0,0,Yellow,iPadOS 18,Apple
+168,Apple 2025 iPad Air,99819,8,4.4,65,3,13.0,7606,Starlight,iPadOS 18,Apple
+169,Apple iPad Pro 2021,112900,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+170,Apple iPad Pro 2021,94900,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+171,Apple 2025 iPad Air,80789,8,4.5,255,17,11.0,7606,Starlight,iPadOS 18,Apple
+172,Samsung Galaxy Tab S10 Ultra,124999,12,4.5,135,14,14.6,11200,Platinum Silver,Android 14,Samsung
+173,Apple 2025 iPad,76029,6,4.7,10452,584,11.0,0,Silver,iPadOS 18,Apple
+174,Apple 2025 iPad Air,71269,8,4.5,255,17,11.0,7606,Purple,iPadOS 18,Apple
+175,Apple 2025 iPad Pro,148139,12,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+176,Apple 2025 iPad Pro,148139,12,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+177,Apple iPad Pro 2021,108389,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+178,Apple 2025 iPad Pro,259900,16,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+179,Apple 2025 iPad Pro,229900,16,4.6,255,265,11.0,7538,Silver,iOS 26,Apple
+180,Apple 2025 iPad Air,99819,8,4.4,65,3,13.0,7606,Blue,iPadOS 18,Apple
+181,Samsung Galaxy Tab S10 FE+,86999,12,4.6,117,7,13.1,10090,Gray,Android 15,Samsung
+182,Samsung Galaxy Tab S10 FE+,75999,8,4.6,117,7,13.1,10090,Silver,Android 15,Samsung
+183,Samsung Galaxy Tab S10 Ultra,124999,12,4.5,135,14,14.6,11200,Platinum Silver,Android 14,Samsung
+184,Apple 2025 iPad Pro,229900,16,4.6,255,265,11.0,7538,Space Black,iOS 26,Apple
+185,Apple 2025 iPad Pro,189900,16,4.6,255,265,11.0,7538,Space Black,iOS 26,Apple
+186,Apple 2025 iPad Pro,219900,16,4.6,255,265,11.0,7538,Space Black,iOS 26,Apple
+187,Samsung Galaxy Tab S10 FE,70999,12,4.8,56,3,10.9,8000,Blue,Android 15,Samsung
+188,Apple iPad Pro 2021,113900,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+189,Samsung Galaxy Tab S10 FE,59999,8,4.8,56,3,10.9,8000,Blue,Android 15,Samsung
+190,Apple iPad Pro 2021,141689,16,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+191,Apple iPad Air,79900,4,4.6,4474,246,10.9,7606,Star Light,iPadOS 15,Apple
+192,Apple iPad Air,79900,4,4.6,4474,246,10.9,7606,Star Light,iPadOS 15,Apple
+193,Apple 2025 iPad Pro,219900,16,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+194,Apple iPad Pro 2021,81739,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+195,Samsung Galaxy Tab S10 FE,49999,8,4.8,56,3,10.9,8000,Gray,Android 15,Samsung
+196,Apple 2024 iPad Air,84900,8,4.6,1131,50,11.0,7606,Purple,iOS 17,Apple
+197,Apple iPad Air,72499,4,4.6,4474,246,10.9,7606,Purple,iPadOS 15,Apple
+198,Apple 2025 iPad Air,80789,8,4.5,255,17,11.0,7606,Space Grey,iPadOS 18,Apple
+199,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Blue,iPadOS 15,Apple
+200,Apple 2024 iPad Air,84900,8,4.6,1131,50,11.0,7606,Blue,iOS 17,Apple
+201,Apple 2024 iPad Air,104900,8,4.6,1131,50,11.0,7606,Purple,iOS 17,Apple
+202,Apple 2024 iPad Air,71279,8,4.6,1131,50,11.0,7606,Purple,iOS 17,Apple
+203,Apple 2025 iPad Pro,139900,12,4.6,255,265,11.0,7538,Silver,iOS 26,Apple
+204,Samsung Galaxy Tab S10 FE+,86999,12,4.6,117,7,13.1,10090,Silver,Android 15,Samsung
+205,Apple 2025 iPad Air,118849,8,4.5,255,17,11.0,7606,Purple,iPadOS 18,Apple
+206,Apple iPad Air,70199,4,4.6,4474,246,10.9,7606,Pink,iPadOS 15,Apple
+207,Samsung Galaxy Tab S9+,117599,12,4.7,1897,108,12.4,10090,Beige,Android 13,Samsung
+208,Apple iPad Pro 2021,107439,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+209,Apple iPad Pro 2021,90309,8,4.7,2171,179,9.9,7538,Silver,iPadOS 14,Apple
+210,Apple 2025 iPad Air,90309,8,4.4,65,3,13.0,7606,Starlight,iPadOS 18,Apple
+211,Apple iPad Pro 2021,81739,8,4.7,2171,179,9.9,7538,Space Grey,iPadOS 14,Apple
+212,Apple 2025 iPad Air,80789,8,4.5,255,17,11.0,7606,Purple,iPadOS 18,Apple
+213,Apple 2024 iPad Air,104900,8,4.7,68,4,13.0,7606,Purple,iOS 17,Apple
+214,Apple 2025 iPad Pro,219900,16,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+215,Apple iPad Pro 2021,202599,16,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+216,Apple iPad Pro 2021,134079,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+217,Samsung Galaxy Tab S9 Ultra,137999,12,4.7,293,18,14.6,10090,Graphite,Android 13,Samsung
+218,Samsung Galaxy Tab S10 FE+,75999,8,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+219,Apple iPad Pro 2021,202599,16,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+220,Samsung Galaxy Tab S9 Ultra,140000,12,4.7,293,18,14.6,10090,Graphite,Android 13,Samsung
+221,Apple iPad Pro 2021,118869,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+222,Apple iPad Pro 2021,116949,8,4.6,225,16,12.9,7538,Silver,iPadOS 14,Apple
+223,Apple iPad Pro 2021,136279,8,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+224,Apple iPad Pro 2021,168339,16,4.6,225,16,12.9,7538,Space Grey,iPadOS 14,Apple
+225,Apple 2025 iPad Pro,249900,16,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+226,Apple 2025 iPad Pro,249900,16,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+227,Apple 2025 iPad Pro,259900,16,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+228,Apple 2025 iPad Pro,209900,16,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+229,Apple 2025 iPad Pro,219900,16,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+230,Apple 2025 iPad Pro,209900,16,4.6,255,265,13.0,7538,Space Black,iOS 26,Apple
+231,Apple 2025 iPad Pro,169900,12,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+232,Apple 2025 iPad Pro,219900,16,4.6,255,265,11.0,7538,Silver,iOS 26,Apple
+233,Apple 2025 iPad Pro,179900,16,4.6,255,265,11.0,7538,Space Black,iOS 26,Apple
+234,Apple 2025 iPad Pro,219900,16,4.6,255,265,13.0,7538,Silver,iOS 26,Apple
+235,Apple 2025 iPad Pro,189900,16,4.6,255,265,11.0,7538,Silver,iOS 26,Apple
+236,Apple 2025 iPad Pro,179900,16,4.6,255,265,11.0,7538,Silver,iOS 26,Apple
+237,Lenovo Tab P11 5G,55000,8,4.2,66,6,11.0,7500,Storm Grey,Android 11,Lenovo
+238,Samsung Galaxy Tab S10 FE,59999,8,4.8,56,3,10.9,8000,Silver,Android 15,Samsung
+239,Apple iPad,61759,4,4.6,18397,930,10.9,7606,Blue,iPadOS 16,Apple
+240,Apple 2022 iPad Pro,104519,16,4.7,1088,71,11.0,7538,Silver,iPadOS 16,Apple
+241,Apple 2022 iPad Pro,94119,16,4.7,1088,71,11.0,7538,Silver,iPadOS 16,Apple
+242,Apple 2022 iPad Pro,91409,16,4.7,1088,71,11.0,7538,Silver,iPadOS 16,Apple
+243,Apple iPad mini,76029,4,4.6,1066,95,8.3,5078,Purple,iOS 15,Apple
+244,Apple 2024 iPad Mini,71269,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+245,Apple 2024 iPad Mini,64900,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+246,Apple 2024 iPad Air,71279,8,4.6,1131,50,11.0,7606,Space Grey,iOS 17,Apple
+247,Apple 2024 iPad Air,80789,8,4.6,1131,50,11.0,7606,Space Grey,iOS 17,Apple
+248,Apple 2024 iPad Mini,61759,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+249,Apple 2024 iPad Mini,94900,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+250,Apple 2024 iPad Mini,74900,8,4.6,155,12,8.3,5078,Purple,iOS iPadOS 18,Apple
+251,Apple 2022 iPad Pro,99839,16,4.6,213,7,12.9,7538,Silver,iPadOS 16,Apple
+252,Apple 2025 iPad Air,99819,8,4.5,255,17,11.0,7606,Space Grey,iPadOS 18,Apple
+253,Apple 2024 iPad Mini,94900,8,4.6,155,12,8.3,5078,Starlight,iOS iPadOS 18,Apple
+254,Apple 2024 iPad Pro,114099,12,4.6,268,13,11.0,7538,Silver,iOS 17,Apple
+255,Apple 2024 iPad Pro,247319,12,4.3,33,1,13.0,7538,Nano-texture),iOS 17,Apple
+256,Apple 2024 iPad Pro,161679,12,4.3,33,1,13.0,7538,Silver,iOS 17,Apple
+257,Apple 2024 iPad Pro,142649,12,4.3,33,1,13.0,7538,Silver,iOS 17,Apple
+258,Apple 2024 iPad Pro,209259,12,4.3,33,1,13.0,7538,Nano-texture),iOS 17,Apple
+259,Apple 2024 iPad Pro,161679,12,4.3,33,1,13.0,7538,Space Black,iOS 17,Apple
+260,Apple 2024 iPad Pro,199739,12,4.3,33,1,13.0,7538,Silver,iOS 17,Apple
+261,Apple 2025 iPad Air,118849,8,4.5,255,17,11.0,7606,Starlight,iPadOS 18,Apple
+262,Apple 2024 iPad Pro,199739,12,4.3,33,1,13.0,7538,Space Black,iOS 17,Apple
+263,Apple 2025 iPad Air,118849,8,4.5,255,17,11.0,7606,Starlight,iPadOS 18,Apple
+264,Apple 2024 iPad Air,84900,8,4.6,1131,50,11.0,7606,Starlight,iOS 17,Apple
+265,Apple 2022 iPad Pro,85799,16,4.7,1088,71,11.0,7538,Space Grey,iPadOS 16,Apple
+266,Apple 2024 iPad Air,74900,8,4.6,1131,50,11.0,7606,Starlight,iOS 17,Apple
+267,Apple 2022 iPad Pro,101729,16,4.7,1088,71,11.0,7538,Space Grey,iPadOS 16,Apple
+268,Apple 2025 iPad Air,80789,8,4.5,255,17,11.0,7606,Blue,iPadOS 18,Apple
+269,Apple 2024 iPad Air,99819,8,4.6,1131,50,11.0,7606,Starlight,iOS 17,Apple
+270,Apple 2025 iPad Air,118849,8,4.4,65,3,13.0,7606,Purple,iPadOS 18,Apple
+271,Apple 2025 iPad Air,99819,8,4.5,255,17,11.0,7606,Purple,iPadOS 18,Apple
+272,Apple 2025 iPad Air,99819,8,4.4,65,3,13.0,7606,Purple,iPadOS 18,Apple
+273,Apple 2025 iPad Air,99819,8,4.4,65,3,13.0,7606,Space Grey,iPadOS 18,Apple
+274,Apple 2025 iPad Air,90309,8,4.4,65,3,13.0,7606,Blue,iPadOS 18,Apple
+275,Apple 2025 iPad Air,71269,8,4.5,255,17,11.0,7606,Blue,iPadOS 18,Apple
+276,Apple 2022 iPad Pro,99839,16,4.6,213,7,12.9,7538,Space Grey,iPadOS 16,Apple
+277,Apple 2022 iPad Pro,131229,16,4.6,213,7,12.9,7538,Space Grey,iPadOS 16,Apple
+278,Samsung Galaxy Tab S9 Ultra,140000,12,4.7,293,18,14.6,10090,Beige,Android 13,Samsung
+279,Samsung Galaxy Tab S9 Ultra,122899,12,4.7,293,18,14.6,10090,Beige,Android 13,Samsung
+280,Apple 2024 iPad Air,99819,8,4.7,68,4,13.0,7606,Starlight,iOS 17,Apple
+281,Apple 2024 iPad Air,99819,8,4.7,68,4,13.0,7606,Space Grey,iOS 17,Apple
+282,Apple 2022 iPad Pro,150259,16,4.6,213,7,12.9,7538,Space Grey,iPadOS 16,Apple
+283,Apple 2025 iPad Air,99819,8,4.5,255,17,11.0,7606,Blue,iPadOS 18,Apple
+284,Apple 2025 iPad,33499,6,4.7,10452,584,11.0,0,Silver,iPadOS 18,Apple
+285,OnePlus Pad Lite,17999,8,4.4,2375,117,11.0,9340,Aero Blue,Oxygen OS 15.0.1,OnePlus
+286,OnePlus Pad Go,19999,8,4.5,23589,1457,11.35,8000,Twin Mint,Android Oxygen OS 13.2,OnePlus
+287,OnePlus Pad Go,19999,8,4.5,23589,1457,11.35,8000,Twin Mint,Android Oxygen OS 13.2,OnePlus
+288,OnePlus Pad Go,17999,8,4.5,23589,1457,11.35,8000,Twin Mint,Android Oxygen OS 13.2,OnePlus
+289,realme Pad 2,14999,6,4.4,35762,2773,11.5,8360,Inspiration Green,Android 13,realme
+290,realme Pad 2,14999,6,4.4,35762,2773,11.5,8360,Imagination Grey,Android 13,realme
+291,realme Pad 2,14799,6,4.4,35762,2773,11.5,8360,Inspiration Green,Android 13,realme
+292,Samsung Galaxy Tab S9 FE,26999,6,4.5,4425,228,10.9,10090,Gray,Android 12,Samsung
+293,Samsung Galaxy Tab S9 FE,47999,8,4.5,4425,228,10.9,10090,Gray,Android 12,Samsung
+294,Samsung Galaxy Tab S9 FE+,28899,8,4.6,24848,1052,12.4,10090,Gray,Android 12,Samsung
+295,realme Pad 2,18999,8,4.4,35762,2773,11.5,8360,Inspiration Green,Android 13,realme
+296,realme Pad 2,14799,6,4.4,35762,2773,11.5,8360,Inspiration Green,Android 13,realme
+297,realme Pad 2,18999,8,4.4,35762,2773,11.5,8360,Inspiration Green,Android 13,realme
+298,OnePlus Pad Lite,15999,6,4.4,2375,117,11.0,9340,Aero Blue,Oxygen OS 15.0.1,OnePlus
+299,Infinix XPAD LTE,14999,8,4.4,2555,273,11.0,7000,Stellar Grey,Android 14,Infinix
+300,Infinix XPAD LTE,14999,8,4.4,2555,273,11.0,7000,Frost Blue,Android 14,Infinix
+301,Infinix XPAD LTE,14999,8,4.4,2555,273,11.0,7000,Titan Golden,Android 14,Infinix
+302,Infinix XPAD LTE,11999,4,4.4,2555,273,11.0,7000,Frost Blue,Android 14,Infinix
+303,Infinix XPAD LTE,11999,4,4.4,2555,273,11.0,7000,Stellar Grey,Android 14,Infinix
+304,Samsung Galaxy Tab S9 FE+,42440,12,4.6,24848,1052,12.4,10090,Gray,Android 12,Samsung
+305,Apple 2025 iPad,33490,6,4.7,10452,584,11.0,0,Pink,iPadOS 18,Apple
+306,Lenovo Chromebook Duet 11M889 MediaTek MediaTek Kompanio 838,18990,8,4.2,910,83,9.9,3767,Luna Grey,Chrome OS,Lenovo
+307,OPPO Pad SE,13999,6,4.4,1683,155,10.95,9340,Twilight Blue,Android 15,OPPO
+308,Lenovo Tab Plus,18999,8,4.5,5166,514,11.5,8600,Luna Grey,Android 14,Lenovo
+309,OPPO Pad SE,13999,6,4.4,1683,155,10.95,9340,Starlight Silver,Android 15,OPPO
+310,Apple 2025 iPad,33900,6,4.7,10452,584,11.0,0,Blue,iPadOS 18,Apple
+311,Samsung Galaxy Tab A9,12999,4,4.3,2393,102,8.7,5100,Navy,Android 12,Samsung
+312,Lenovo Tab M9,9799,4,4.3,47,1,9.9,5100,Arctic Grey,Android 12,Lenovo
+313,Samsung M36 5G,22999,6,4.1,177,6,9.9,5000,Black,Android Oxygen 15,Samsung
+314,Samsung Galaxy Tab S9 FE+,31999,8,4.6,24848,1052,12.4,10090,Lavender,Android 12,Samsung
+315,Samsung Galaxy Tab A9,10999,4,4.3,2393,102,8.7,5100,Navy,Android 12,Samsung
+316,OPPO Pad SE,11999,4,4.4,1683,155,10.95,9340,Starlight Silver,Android 15,OPPO
+317,Samsung Galaxy M17 5G,15088,8,4.2,10,1,9.9,5000,Graphite,Android Oxygen Android 15,Samsung
+318,Samsung Galaxy Tab S9 FE,47999,8,4.5,4425,228,10.9,10090,Silver,Android 12,Samsung
+319,Samsung Galaxy Tab S9 FE+,46999,8,4.6,24848,1052,12.4,10090,Silver,Android 12,Samsung
+320,OPPO Pad SE,11999,4,4.4,1683,155,10.95,9340,Twilight Blue,Android 15,OPPO
+321,Samsung Galaxy Tab A9+,19623,4,4.5,38465,1473,11.0,7040,Silver,Android 12,Samsung
+322,Samsung Galaxy Tab S9,49990,8,4.7,2377,134,11.0,8400,Graphite,Android 13,Samsung
+323,Apple 2025 iPad Air,56999,8,4.5,255,17,11.0,7606,Blue,iPadOS 18,Apple
+324,Samsung Galaxy M17 5G,13529,8,4.0,5,398,9.9,5000,Sapphire Black,Android Oxygen Android 15,Samsung
+325,Samsung Galaxy M17 5G,13481,8,4.0,5,398,9.9,5000,Moonlight Silver,Android Oxygen Android 15,Samsung
+326,Samsung Galaxy Tab S9+,101999,12,4.7,1897,108,12.4,10090,Graphite,Android 13,Samsung
+327,Samsung Galaxy Tab S9 FE,27999,6,4.5,4425,228,10.9,10090,Mint,Android 12,Samsung
+328,Swipe STRIKE,5499,3,3.1,429,65,9.9,3000,Gold,Android 9.0,Swipe
+329,Samsung Galaxy Tab A9,12999,4,4.3,2393,102,8.7,5100,Silver,Android 12,Samsung
+330,Samsung Galaxy Tab A9+,17999,8,4.5,38465,1473,11.0,7040,Graphite,Android 12,Samsung
+331,Samsung Galaxy Tab A8,10968,3,4.4,12692,909,10.5,7040,Gray,Android 11,Samsung
+332,Samsung Galaxy Tab A7 Lite,11799,3,4.3,4596,330,8.7,5100,Gray,Android 11,Samsung
+333,Samsung Galaxy Tab A9,12999,4,4.3,2393,102,8.7,5100,Silver,Android 12,Samsung
+334,Samsung Galaxy Tab S9 FE+,46999,8,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+335,Samsung Galaxy Tab A8,20730,4,4.4,12692,909,10.5,7040,Gray,Android 11,Samsung
+336,Samsung Galaxy Tab S9 FE+,55999,12,4.6,24848,1052,12.4,10090,Mint,Android 12,Samsung
+337,Samsung Galaxy Tab S9,49490,8,4.7,2377,134,11.0,8400,Beige,Android 13,Samsung
+338,DOMO SL39 OS9 3C,7990,4,3.4,38,1,10.1,5020,Blue,Android 9,DOMO
+339,Samsung Galaxy Tab S8 Ultra,84999,12,4.5,102,7,14.6,10090,Graphite,Android 12,Samsung
+340,Samsung Galaxy Tab A11,17999,8,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+341,Samsung Galaxy Tab A11,17999,8,3.5,27,1,8.7,5100,Gray,Android 15,Samsung
+342,Samsung Galaxy Tab S6 Lite,35999,4,4.5,15748,1185,10.4,7040,Chiffon Pink,Android 12,Samsung
+343,DOMO Tab SLP8 OS13,8990,4,4.6,0,1,10.1,5020,Grey,Android 13,DOMO
+344,Samsung Galaxy Tab A11,12999,4,3.5,27,1,8.7,5100,Gray,Android 15,Samsung
+345,Samsung Galaxy Tab A11,12999,4,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+346,Samsung Galaxy Tab S11 Ultra,110999,12,4.4,28,2,14.6,11600,Gray,Android 16,Samsung
+347,Samsung Galaxy Tab S6 Lite,41999,4,4.5,15748,1185,10.4,7040,Angora Blue,Android 12,Samsung
+348,DOMO Tab SLP9 6765 OS13,9290,4,4.6,0,1,10.1,5020,Grey,Android 13,DOMO
+349,Acer Iconia Tab,21677,6,3.4,19,2,11.45,7400,Blue,Android 14,Acer
+350,Samsung Galaxy Tab S6 Lite,30999,4,4.5,15748,1185,10.4,7040,Chiffon Pink,Android 10,Samsung
+351,Samsung Galaxy Tab S10 Ultra,99999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+352,Samsung Galaxy Tab S10 FE+,75999,12,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+353,Samsung Galaxy Tab S11 Ultra,110999,12,4.4,28,2,14.6,11600,Silver,Android 16,Samsung
+354,Samsung Galaxy Tab S10 Ultra,99999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+355,TCL 10 TAB Max,31999,4,4.2,3044,444,10.36,8000,Blue,Android 10,TCL
+356,Samsung Galaxy Tab S10 FE+,53099,8,4.6,117,7,13.1,10090,Gray,Android 15,Samsung
+357,Samsung Galaxy Tab A11,15999,4,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+358,Samsung Galaxy Tab S10 Ultra,99999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+359,Samsung Galaxy Tab A11,15999,4,3.5,27,1,8.7,5100,Silver,Android 15,Samsung
+360,TCL 10 TAB Max,31999,4,4.2,3044,444,10.36,8000,Blue,Android 10,TCL
+361,Samsung Galaxy Tab S10 FE+,53099,8,4.6,117,7,13.1,10090,Gray,Android 15,Samsung
+362,Samsung Galaxy Tab S11,85999,12,4.8,11,398,11.0,8400,Gray,Android 16,Samsung
+363,Samsung Galaxy Tab S10 FE+,75999,12,4.6,117,7,13.1,10090,Gray,Android 15,Samsung
+364,Samsung Galaxy Tab S10+,101999,12,4.7,143,4,12.4,10090,Platinum Silver,Android 14,Samsung
+365,iball iTAB BizniZ Mini,10000,2,3.7,153,22,9.9,4000,Coal Black,Android v9 Pie,iball
+366,Samsung Galaxy Tab S11,80999,12,4.8,11,398,11.0,8400,Gray,Android 16,Samsung
+367,Samsung Galaxy Tab S10 FE,60999,12,4.8,56,3,10.9,8000,Silver,Android 15,Samsung
+368,Samsung Galaxy Tab S10 Ultra,110999,12,4.5,135,14,14.6,11200,Moonstone Gray,Android 14,Samsung
+369,Samsung Galaxy Tab A8,26350,3,4.4,12692,909,10.5,7040,Gray,Android 11,Samsung
+370,Samsung Galaxy Tab S7 FE,54999,4,4.5,3050,214,12.4,10090,Silver,Android 11,Samsung
+371,Apple iPad Pro 2020,117899,6,4.7,839,85,9.9,10758,Silver,iPadOS 13.4,Apple
+372,Samsung Galaxy Tab S10 FE+,55799,8,4.6,117,7,13.1,10090,Blue,Android 15,Samsung
+373,Apple iPad Pro 2020,126609,6,4.7,839,85,9.9,10758,Space Black,iPadOS 13.4,Apple
+374,Samsung Galaxy Tab S9+,101999,12,4.7,1897,108,12.4,10090,Beige,Android 13,Samsung
+375,Samsung Galaxy Tab S10 FE+,64999,8,4.6,117,7,13.1,10090,Silver,Android 15,Samsung
+376,Samsung Galaxy Tab S10 FE+,75999,12,4.6,117,7,13.1,10090,Silver,Android 15,Samsung
+377,Samsung Galaxy Tab S10+,99999,12,4.7,143,4,12.4,10090,Moonstone Gray,Android 14,Samsung
+378,Samsung Galaxy Tab S11 Ultra,121999,12,4.4,28,2,14.6,11600,Gray,Android 16,Samsung
+379,Samsung Galaxy Tab S11,85999,12,4.8,11,398,11.0,8400,Silver,Android 16,Samsung
+380,Samsung Galaxy Tab S11,80999,12,4.8,11,398,11.0,8400,Silver,Android 16,Samsung
+381,Apple iPad Air,66900,4,4.7,9305,640,10.9,7606,Rose Gold,iPadOS 14,Apple
+382,Samsung Galaxy Tab S9 Ultra,121999,12,4.7,293,18,14.6,10090,Graphite,Android 13,Samsung
+383,Wishtel IRA T1020,21079,8,3.0,4,0,9.9,8000,Black,Android 10,Wishtel
+384,Lenovo Tab P11 Pro,40599,6,4.3,316,36,11.5,8600,Slate Grey,Android 10,Lenovo
+385,realme Pad 2,29000,8,4.6,13715,1857,11.5,8360,Grey,Android 13,realme
+386,Apple iPad,55799,4,4.6,56942,3686,10.2,7606,Silver,iOS 15,Apple
+387,Apple iPad,42199,4,4.6,56942,3686,10.2,7606,Silver,iOS 15,Apple
+388,Apple iPad,55999,4,4.6,56942,3686,10.2,7606,Space Grey,iOS 15,Apple
+389,Apple iPad,41399,4,4.6,56942,3686,10.2,7606,Space Grey,iOS 15,Apple
+390,Apple iPad Air,76989,4,4.7,9305,640,10.9,7606,Silver,iPadOS 14,Apple
+391,Apple ipad Mini,57939,3,4.6,5592,796,7.9,5078,Gold,iPadOS 14,Apple
+392,Apple ipad Mini,45900,3,4.6,5592,796,7.9,5078,Gold,iPadOS 14,Apple
+393,Apple ipad Mini,57939,3,4.6,5592,796,7.9,5078,Gold,iPadOS 14,Apple
+394,Apple ipad Mini,45900,3,4.6,5592,796,7.9,5078,Silver,iPadOS 14,Apple
+395,Apple ipad Mini,45900,3,4.6,5592,796,7.9,5078,Silver,iPadOS 14,Apple
+396,Apple iPad Air,76979,4,4.7,9305,640,10.9,7606,Space Grey,iPadOS 14,Apple
+397,Infinix XPAD LTE,11999,4,4.4,2555,273,11.0,7000,Frost Blue,Android 14,Infinix
+398,Samsung Galaxy Tab S9 FE,33998,8,4.5,4425,228,10.9,10090,Lavender,Android 12,Samsung
+399,Samsung Galaxy Tab A9+,20999,8,4.5,38465,1473,11.0,7040,GRAY,Android 12,Samsung
+400,Samsung Galaxy Tab A9+,16999,4,4.5,38465,1473,11.0,7040,GRAPHITE,Android 12,Samsung
+401,Samsung Galaxy Tab A9+,17999,8,4.5,38465,1473,11.0,7040,Silver,Android 12,Samsung
+402,Samsung Galaxy Tab A9+,16999,8,4.5,38465,1473,11.0,7040,Navy,Android 12,Samsung
+403,Samsung Galaxy Tab A9,12490,4,4.3,2393,102,8.7,5100,Graphite,Android 12,Samsung
+404,Samsung Galaxy Tab A9+,15999,4,4.5,38465,1473,11.0,7040,Navy,Android 12,Samsung
